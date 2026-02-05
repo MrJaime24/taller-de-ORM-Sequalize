@@ -34,7 +34,7 @@ Asegúrate de tener instalado:
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone https://github.com/CarlosBasulto/ApiRest_Node_ORM_Sequelize.git
+    git clone https://github.com/MrJaime24/taller-de-ORM-Sequalize
     cd taller-de-ORM-Sequalize
     ```
 
